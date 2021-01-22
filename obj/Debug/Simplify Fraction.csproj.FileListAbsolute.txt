@@ -1,0 +1,7 @@
+C:\Users\tmcar\source\repos\Simplify Fraction\bin\Debug\Simplify Fraction.exe.config
+C:\Users\tmcar\source\repos\Simplify Fraction\bin\Debug\Simplify Fraction.exe
+C:\Users\tmcar\source\repos\Simplify Fraction\bin\Debug\Simplify Fraction.pdb
+C:\Users\tmcar\source\repos\Simplify Fraction\obj\Debug\Simplify Fraction.csprojAssemblyReference.cache
+C:\Users\tmcar\source\repos\Simplify Fraction\obj\Debug\Simplify Fraction.csproj.CoreCompileInputs.cache
+C:\Users\tmcar\source\repos\Simplify Fraction\obj\Debug\Simplify Fraction.exe
+C:\Users\tmcar\source\repos\Simplify Fraction\obj\Debug\Simplify Fraction.pdb
