@@ -13,6 +13,7 @@ namespace Simplify_Fraction
         {
             while (true)
             {
+                //getting user input
                 Console.WriteLine("Please enter a fraction");
                 string fraction = Console.ReadLine();
                 if (Regex.IsMatch(fraction, @"^[0-9]+\/[0-9]+$"))
@@ -29,10 +30,11 @@ namespace Simplify_Fraction
         }
         static string Simplify(string fraction)
         {
+            //splitting fractions into two different numbers
             string[] stringNums = fraction.Split('/');
             int num1 = Convert.ToInt32(stringNums[0]);
             int num2 = Convert.ToInt32(stringNums[1]);
-            
+            //checking to make sure that the two numbers don't have any common factors less than num1
             for(int i = num1; i > 0; i--)
             {
                 if(num1 % i == 0 && num2 % i == 0)
